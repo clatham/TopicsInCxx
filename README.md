@@ -2,12 +2,12 @@
 
 ## Overview
 
-My goal is to explain sometimes complex topics in C/C++ in the simplest terms possible, so newcomers
+My goal is to explain complex topics in C/C++ in the simplest terms possible, so newcomers
 can understand them.  The easier it is to find your footing in a language, the quicker you will
 discover your love for it.
 
-I'm not a professional teacher, so please be understanding of any errors you find.  Either post a
-comment, or put up a pull request with a correction.
+I'm not a professional teacher, so please be understanding of any errors you find.  Either create an issue,
+or put up a pull request with a correction.
 
 
 ## Contents
