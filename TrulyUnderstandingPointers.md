@@ -35,7 +35,7 @@ Our table should now look like this:
 
 Note that "c" is 64-bits in length, because that's how long all pointers are in the LLP64 data model.  Its value is the address of "a", because a pointer is a variable that stores the address of a variable.
 
-What happens if we indirect "c" and assign something to it?  Let's find out by modifying our code.
+What happens if we assign a value to the variable pointed-to by "c" using the indirection operator (*)?  Let's find out by modifying our code.
 ```
 int a = 3;
 double b;
